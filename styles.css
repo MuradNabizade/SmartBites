@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+}
+
+h1 {
+  font-size: 2em;
+  color: #000000;
+  margin-bottom: .5em;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.5;
+  margin-bottom: 1em;
+}
+
+nav {
+  background-color: #000000;
+  color: #ffffff;
+  padding: .5em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  margin-right: .5em;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
